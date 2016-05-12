@@ -1,2 +1,0 @@
-gunicorn==19.4.5
-twitter==1.17.1
