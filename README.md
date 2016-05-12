@@ -13,20 +13,20 @@ pip install twitter
 
 4) You will need to create an app account on https://dev.twitter.com/apps
 
-Sign in with your Twitter account
+> Sign in with your Twitter account
 
-Create a new app account
+> Create a new app account
 
-Modify the settings for that app account to allow read & write
+> Modify the settings for that app account to allow read & write
 
-Generate a new OAuth token with those permissions
+> Generate a new OAuth token with those permissions
 
-Update the credentials in the corresponding spaces in ollie.py
+> Update the credentials in the corresponding spaces in ollie.py
 ```
-consumer_key='',
-  consumer_secret='',
-  token='',
-  token_secret=''
+consumer_key='[YOUR CONSUMER KEY]',
+consumer_secret='[YOUR CONSUMER SECRET]',
+token='[YOUR TOKEN]',
+token_secret='[YOUR TOKEN SECRET]'
 ```
 
 4) Installation complete! Now navigate to ollie.py and run it
